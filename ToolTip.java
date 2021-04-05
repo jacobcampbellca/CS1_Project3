@@ -4,12 +4,6 @@ import java.awt.FontMetrics;
 /**
  * A ToolTip is a yellow box with black text that disappears after 
  * a certain number of calls to act()
- * 
- * Although you are welcome to modify this code, modifying this
- * code is HIGHLY INADVISABLE. 
- * 
- * @author Stephen Blythe
- * @version 2/2018
  */
 public class ToolTip extends Actor
 {
